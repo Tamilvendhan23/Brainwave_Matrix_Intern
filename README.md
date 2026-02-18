@@ -1,4 +1,4 @@
-# Brainwave Matrix Intern
+# Brainwave Matrix Internship
 
 A concise README to introduce the Brainwave_Matrix_Intern repository, explain its purpose, how to set up and run it, and how to contribute. Replace any placeholder sections with project-specific details as needed.
 
